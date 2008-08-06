@@ -17,7 +17,7 @@ require ENV['TM_BUNDLE_SUPPORT'] + "/lib/easyopen/find_alc"
 	<key>name</key>
 	<string>find_alc</string>
 	<key>output</key>
-	<string>showAsHTML</string>
+	<string>discard</string>
 	<key>uuid</key>
 	<string>B2E8F210-6300-41B2-BB61-ED08309EE4CF</string>
 </dict>
